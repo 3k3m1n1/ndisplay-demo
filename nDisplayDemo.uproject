@@ -29,6 +29,10 @@
 		{
 			"Name": "Switchboard",
 			"Enabled": true
+		},
+		{
+			"Name": "OptitrackLiveLink",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
